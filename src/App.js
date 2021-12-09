@@ -8,6 +8,7 @@ import {
   WhatGPT3,
 } from "./containers";
 import { Brand, CTA, Navbar } from "./components";
+import "./App.css";
 
 const App = () => {
   return (
