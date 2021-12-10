@@ -17,4 +17,4 @@ Design author: https://www.arshakir.com
 
 ## Preview
 
-![Project Image](https://github.com/Chris-Z-85/GTP3/blob/main/gtp3.png?raw=true)
+![Project Image](https://github.com/Chris-Z-85/GTP3/blob/main/gpt-3.png?raw=true)
