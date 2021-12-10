@@ -12,9 +12,11 @@ Figma project turned into reality!
 
 Fully functioning, modern and responsive React website based on a Figma design.
 
-<a href="https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3" target="_blank">Figma design</a>
+Deployed here: :arrow_right: [Link](https://gtp3-open-ai.netlify.app) :arrow_left:
 
-<a href="https://www.arshakir.com" target="_blank">Design author's website</a>
+Figma design: [Link](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)
+
+Design author's: [Link](https://www.arshakir.com).
 
 ## Preview
 
