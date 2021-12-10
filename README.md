@@ -13,6 +13,7 @@ Figma project turned into reality!
 Fully functioning, modern and responsive React website based on a Figma design.
 
 Figma design: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
+
 Design author: https://www.arshakir.com
 
 ## Preview
